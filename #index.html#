@@ -19,9 +19,11 @@
       <a href="attacks.html">Attacks</a>
     </nav>
     <main>
+      <p>Modern cryptography</p>
       
     </main>
     <footer>
+      <hr>
     </footer>
   </body>
 </html>
