@@ -30,7 +30,7 @@ nav a:hover {
     font-weight:bold;
 }
   
-#image {
+#image, #image1, #image2 {
     float:right;
     border:2px grey solid;
 }
